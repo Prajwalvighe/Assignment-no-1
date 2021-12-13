@@ -1,5 +1,4 @@
-# Assignment-no-1
-python 
+ 
 import mysql.connector as my
 
 con = my.connect(host='bplx7zjluj8ztqdment0-mysql.services.clever-cloud.com', user='utdc4xugroxopi4q', password='l3A4aV1qVd3bMPBHITBG', database='bplx7zjluj8ztqdment0')
